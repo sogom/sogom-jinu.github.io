@@ -2,8 +2,13 @@
 main:
   # - title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "categories"
+  - title: "Categories"
     url: /categories/
+  - title: "연도별"
+    url: /posts/
+  - title: "Tags"
+    url: /tags/
+    
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
